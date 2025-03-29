@@ -1,0 +1,117 @@
+# CV maker
+- JSON-alapú adatmegjelenítés
+- Tud minta JSON-t adni a weboldal, amelyet személyre lehet szabni
+- Kívülről fel lehet vinni JSON adatot (nem tárolja a szerver)
+- Kívülről fel lehet vinni profilképet (nem tárolja a szerver)
+
+## Weboldal preview
+![Screenshot 2025-03-29 at 14-36-36 Document](https://github.com/user-attachments/assets/06abc747-4256-4a28-8be7-56a382f74969)
+
+## JSON struktúra
+```json
+{
+    "nev":"John Doe",
+    "szemelyes_adatok":{
+        "cim":"4000 Debrecen, kiskör utca 10",
+        "telefonszam":"06 (1) 234 5678",
+        "email":"johndoe@gmail.com",
+        "szuletesi_ido":"2000-01-01",
+        "szuletesi_hely":"Debrecen",
+        "weboldal":{
+            "link_neve":"Github",
+            "link_url":"https://github.com/vellt"
+        }
+    },
+    "erdeklodesi_korok":[
+        "Webfejlesztés",
+        "Asztali alkalmazások fejlesztése",
+		"Adatbázis",
+        "Mobilalkalmazás fejlesztés",
+        "Frontend tervezés",
+        "Backend fejlesztés"
+    ],
+    "rolam":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et lectus et lorem ornare commodo vitae ac mi. Ut finibus vestibulum urna. Cras at dui eget arcu bibendum porta vitae in mi. Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc dui magna, accumsan in laoreet ut, vehicula sit amet nibh.",
+    "tanulmanyok":[
+        {
+			      "iskola_tipusa":"Technikum",
+            "iskola_neve":"DSZC Baross Gábor Technikum, Szakképző Iskola és Kollégium",
+			      "varos":"Debrecen",
+            "kezdete":"2000 szept",
+            "vege":"2005 máj",
+            "leiras":"Aliquam non nisi congue, volutpat tellus sed, consectetur nisl. Etiam ornare est id dolor blandit, nec interdum eros mattis. Donec condimentum sapien lacus."
+        }
+    ],
+    "munkatapasztalat":[
+        {
+			      "munkakor":"Diákmunka",
+            "ceg_neve":"Tensor",
+			      "varos":"Debrecen",
+            "kezdete":"2020 febr",
+            "vege":"2024 jan",
+            "leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
+        },
+		    {
+			      "munkakor":"Webfejlesztő",
+            "ceg_neve":"Euronics",
+			      "varos":"Debrecen",
+            "kezdete":"2021 febr",
+            "vege":"2024 jan",
+            "leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
+        }
+    ],
+    "keszsegek":[
+        {
+            "keszseg_neve":"angol",
+            "erteke":3
+        },
+        {
+            "keszseg_neve":"javascript",
+            "erteke":3
+        },
+		    {
+            "keszseg_neve":"C#",
+            "erteke":4
+        },
+        {
+            "keszseg_neve":"Figma",
+            "erteke":2
+        },
+        {
+            "keszseg_neve":"WPF",
+            "erteke":4
+        },
+        {
+            "keszseg_neve":"HTML",
+            "erteke":3
+        },
+        {
+            "keszseg_neve":"CSS",
+            "erteke":3
+        },
+        {
+            "keszseg_neve":"Bootstap",
+            "erteke":4
+        },
+        {
+            "keszseg_neve":"Node.js",
+            "erteke":2
+        },
+        {
+            "keszseg_neve":"Flutter",
+            "erteke":4
+        },
+        {
+            "keszseg_neve":"React",
+            "erteke":2
+        },
+        {
+            "keszseg_neve":"MySql",
+            "erteke":3
+        },
+        {
+            "keszseg_neve":"Git",
+            "erteke":4
+        }
+    ]
+}
+```
