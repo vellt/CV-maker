@@ -50,12 +50,16 @@
     ],
     "keszsegek":[
         {
-            "keszseg_neve":"angol",
+            "keszseg_neve":"Angol",
             "erteke":3
         },
         {
-            "keszseg_neve":"javascript",
+            "keszseg_neve":"JavaScript",
             "erteke":3
+        },
+        {
+            "keszseg_neve":"Python",
+            "erteke":1
         },
 		{
             "keszseg_neve":"C#",
@@ -71,7 +75,7 @@
         },
         {
             "keszseg_neve":"HTML",
-            "erteke":3
+            "erteke":5
         },
         {
             "keszseg_neve":"CSS",
