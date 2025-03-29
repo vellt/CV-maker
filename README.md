@@ -5,8 +5,7 @@
 - Kívülről fel lehet vinni profilképet (nem tárolja a szerver)
 
 ## Weboldal preview
-![Screenshot 2025-03-29 at 15-02-51 Document](https://github.com/user-attachments/assets/6b377155-ba16-45de-bbb7-99a9ef174bbc)
-
+![Screenshot 2025-03-29 at 16-41-21 CV-Maker](https://github.com/user-attachments/assets/e0d58cb6-71e0-4fb2-9836-31e4e85515ef)
 
 ## JSON struktúra
 ```json
@@ -69,7 +68,11 @@
             "keszseg_neve":"javascript",
             "erteke":3
         },
-		    {
+	{
+            "keszseg_neve":"Python",
+            "erteke":1
+        },
+	{
             "keszseg_neve":"C#",
             "erteke":4
         },
@@ -83,7 +86,7 @@
         },
         {
             "keszseg_neve":"HTML",
-            "erteke":3
+            "erteke":5
         },
         {
             "keszseg_neve":"CSS",
