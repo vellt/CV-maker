@@ -5,14 +5,15 @@
 - Kívülről fel lehet vinni profilképet (nem tárolja a szerver)
 
 ## Weboldal preview
-[![Screenshot 2025-03-29 at 14-36-36 Document](https://github.com/user-attachments/assets/06abc747-4256-4a28-8be7-56a382f74969)](https://vellt.github.io/CV-maker/)
+![Screenshot 2025-03-29 at 15-02-51 Document](https://github.com/user-attachments/assets/6b377155-ba16-45de-bbb7-99a9ef174bbc)
+
 
 ## JSON struktúra
 ```json
 {
     "nev":"John Doe",
     "szemelyes_adatok":{
-        "cim":"4000 Debrecen, kiskör utca 10",
+        "cim":"4000 Debrecen, Lorem Ipsum utca 10",
         "telefonszam":"06 (1) 234 5678",
         "email":"johndoe@gmail.com",
         "szuletesi_ido":"2000-01-01",
