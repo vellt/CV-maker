@@ -33,30 +33,30 @@
     "rolam":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et lectus et lorem ornare commodo vitae ac mi. Ut finibus vestibulum urna. Cras at dui eget arcu bibendum porta vitae in mi. Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc dui magna, accumsan in laoreet ut, vehicula sit amet nibh.",
     "tanulmanyok":[
         {
-			      "iskola_tipusa":"Technikum",
-            "iskola_neve":"DSZC Baross Gábor Technikum, Szakképző Iskola és Kollégium",
-			      "varos":"Debrecen",
-            "kezdete":"2000 szept",
-            "vege":"2005 máj",
-            "leiras":"Aliquam non nisi congue, volutpat tellus sed, consectetur nisl. Etiam ornare est id dolor blandit, nec interdum eros mattis. Donec condimentum sapien lacus."
+		"iskola_tipusa":"Technikum",
+		"iskola_neve":"DSZC Baross Gábor Technikum, Szakképző Iskola és Kollégium",
+		"varos":"Debrecen",
+		"kezdete":"2000 szept",
+		"vege":"2005 máj",
+		"leiras":"Aliquam non nisi congue, volutpat tellus sed, consectetur nisl. Etiam ornare est id dolor blandit, nec interdum eros mattis. Donec condimentum sapien lacus."
         }
     ],
     "munkatapasztalat":[
         {
-			      "munkakor":"Diákmunka",
-            "ceg_neve":"Tensor",
-			      "varos":"Debrecen",
-            "kezdete":"2020 febr",
-            "vege":"2024 jan",
-            "leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
+		"munkakor":"Diákmunka",
+		"ceg_neve":"Tensor",
+		"varos":"Debrecen",
+		"kezdete":"2020 febr",
+		"vege":"2024 jan",
+		"leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
         },
-		    {
-			      "munkakor":"Webfejlesztő",
-            "ceg_neve":"Euronics",
-			      "varos":"Debrecen",
-            "kezdete":"2021 febr",
-            "vege":"2024 jan",
-            "leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
+	{
+		"munkakor":"Webfejlesztő",
+		"ceg_neve":"Euronics",
+		"varos":"Debrecen",
+		"kezdete":"2021 febr",
+		"vege":"2024 jan",
+		"leiras":"Fusce ac arcu in erat consequat interdum ac pretium lectus. Sed tincidunt lacus eros, quis varius turpis pulvinar ut. "
         }
     ],
     "keszsegek":[
