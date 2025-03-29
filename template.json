@@ -1,7 +1,7 @@
 {
     "nev":"John Doe",
     "szemelyes_adatok":{
-        "cim":"4000 Debrecen, kiskör utca 10",
+        "cim":"4000 Debrecen, Lorem Ipsum utca 10",
         "telefonszam":"06 (1) 234 5678",
         "email":"johndoe@gmail.com",
         "szuletesi_ido":"2000-01-01",
