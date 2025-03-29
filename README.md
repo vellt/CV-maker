@@ -5,7 +5,7 @@
 - Kívülről fel lehet vinni profilképet (nem tárolja a szerver)
 
 ## Weboldal preview
-![Screenshot 2025-03-29 at 14-36-36 Document](https://github.com/user-attachments/assets/06abc747-4256-4a28-8be7-56a382f74969)
+[![Screenshot 2025-03-29 at 14-36-36 Document](https://github.com/user-attachments/assets/06abc747-4256-4a28-8be7-56a382f74969)](https://vellt.github.io/CV-maker/)
 
 ## JSON struktúra
 ```json
@@ -25,7 +25,7 @@
     "erdeklodesi_korok":[
         "Webfejlesztés",
         "Asztali alkalmazások fejlesztése",
-		"Adatbázis",
+	"Adatbázis üzemeltetés",
         "Mobilalkalmazás fejlesztés",
         "Frontend tervezés",
         "Backend fejlesztés"
@@ -99,6 +99,10 @@
         {
             "keszseg_neve":"Flutter",
             "erteke":4
+        },
+	{
+            "keszseg_neve":"Dart",
+            "erteke":3
         },
         {
             "keszseg_neve":"React",
