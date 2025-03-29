@@ -44,7 +44,7 @@
     "munkatapasztalat":[
         {
 		"munkakor":"Diákmunka",
-		"ceg_neve":"Tensor",
+		"ceg_neve":"Lorem Ipsum",
 		"varos":"Debrecen",
 		"kezdete":"2020 febr",
 		"vege":"2024 jan",
@@ -52,7 +52,7 @@
         },
 	{
 		"munkakor":"Webfejlesztő",
-		"ceg_neve":"Euronics",
+		"ceg_neve":"Lorem Ipsum",
 		"varos":"Debrecen",
 		"kezdete":"2021 febr",
 		"vege":"2024 jan",
